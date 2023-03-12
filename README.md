@@ -1,1 +1,1 @@
-# rsschool-cv
+https://slipper08.github.io/rsschool-cv/cv
