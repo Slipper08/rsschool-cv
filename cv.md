@@ -21,3 +21,31 @@
 * CSS
 * Git/GitHub
 * Figma, Photoshop, Avocode
+
+## **Code Examples**
+------------------
+```js
+function multiply(a, b){
+return a * b;
+}
+```
+
+## **Experience**
+------------------
+* *2011-2013* - CraftFoodsRus, Sobinka, Vladimir region, specialist of maintaining and reparing
+* *2013-2014* - Combine Digital Agency, Vladimr, spealist of marketing
+* *2014-2015* - M-Liner Digital Agency, Moscow, main specialist of marketing
+* *2015-2016* - Elado Manufacturing Company, Vladimir, main specialist of marketing
+* *2016-now* - self employed, specialist of marketing
+
+## **Education**
+------------------
+* **Ivanovo State University of Chemistry and Technology**
+    * **Faculty of Chemical Engineering and Cybernetics, Сhemistry and biology**
+    * **Department of Economy and Finance, Economy of Manufacture**
+* **Every year education in order to confirm the level of system proficiency: Yandex Direct, Google Adwords, BluePrint by Facebook, Vkontakte, etc.**
+
+## **Languages**
+-----------------
+* Russian (native)
+* English (A2)
